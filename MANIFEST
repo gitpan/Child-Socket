@@ -9,3 +9,4 @@ META.yml
 README
 t/Import.t
 t/Socket.t
+META.json
